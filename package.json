@@ -1,0 +1,19 @@
+{
+  "name": "hel",
+  "version": "1.0.0",
+  "description": "a simple",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.15.1",
+    "node-fetch": "^2.6.11"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
